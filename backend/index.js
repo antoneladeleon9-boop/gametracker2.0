@@ -3,46 +3,30 @@ import mongoose from "mongoose";
 import cors from "cors";
 import dotenv from "dotenv";
 
-// Rutas
-import authRoutes from "./routes/auth.js";
+import usuariosRoutes from "./routes/usuarios.js";
 import juegosRoutes from "./routes/juegos.js";
+import resenasRoutes from "./routes/resenas.js";
+import estadisticasRoutes from "./routes/estadisticas.js";
 
 dotenv.config();
 
 const app = express();
 
-// =========================
-// 🔥 MIDDLEWARES
-// =========================
+// Middlewares
 app.use(cors());
 app.use(express.json());
 
-// =========================
-// 🔥 CONEXIÓN A MONGODB
-// =========================
+// Rutas
+app.use("/api/usuarios", usuariosRoutes);   // 👈 AQUÍ ES DONDE ESTÁ /me
+app.use("/api/juegos", juegosRoutes);
+app.use("/api/resenas", resenasRoutes);
+app.use("/api/estadisticas", estadisticasRoutes);
+
+// Conexión a MongoDB
 mongoose
   .connect(process.env.MONGO_URI)
-  .then(() => console.log("📌 Conectado a MongoDB"))
-  .catch((err) => console.error("❌ Error al conectar MongoDB:", err));
+  .then(() => console.log("MongoDB conectado"))
+  .catch((err) => console.error(err));
 
-// =========================
-// 🔥 RUTAS PRINCIPALES
-// =========================
-app.use("/api/auth", authRoutes);
-app.use("/api/juegos", juegosRoutes);
-
-// =========================
-// ⚠ Ruta base
-// =========================
-app.get("/", (req, res) => {
-  res.send("API funcionando correctamente");
-});
-
-// =========================
-// 🚀 LEVANTAR SERVIDOR
-// =========================
 const PORT = process.env.PORT || 5000;
-
-app.listen(PORT, () => {
-  console.log(`🚀 Servidor backend corriendo en http://localhost:${PORT}`);
-});
+app.listen(PORT, () => console.log(`Servidor en http://localhost:${PORT}`));

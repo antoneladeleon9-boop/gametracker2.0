@@ -12,13 +12,12 @@ export function AuthProvider({ children }) {
     const token = localStorage.getItem("token");
     if (!token) return;
 
-    fetch("http://localhost:5000/api/auth/me", {
+    fetch("http://localhost:5000/api/usuarios/me", {
       headers: { Authorization: `Bearer ${token}` },
     })
       .then((res) => res.json())
       .then((data) => {
-        // el backend devuelve el usuario directamente
-        if (data && data._id) setUsuario(data);
+        if (data) setUsuario(data);
       })
       .catch(() => {});
   }, []);
@@ -28,7 +27,7 @@ export function AuthProvider({ children }) {
   // =========================
   const login = async (email, password) => {
     try {
-      const res = await fetch("http://localhost:5000/api/auth/login", {
+      const res = await fetch("http://localhost:5000/api/usuarios/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, password }),
@@ -36,21 +35,13 @@ export function AuthProvider({ children }) {
 
       const data = await res.json();
 
-      if (!data.token) {
+      if (!res.ok) {
         alert(data.mensaje || "Credenciales incorrectas");
         return false;
       }
 
-      // Guardar token
       localStorage.setItem("token", data.token);
-
-      // Obtener usuario automáticamente
-      const me = await fetch("http://localhost:5000/api/auth/me", {
-        headers: { Authorization: "Bearer " + data.token },
-      });
-
-      const usuarioData = await me.json();
-      setUsuario(usuarioData);
+      setUsuario({ nombre: data.nombre, id: data.id });
 
       return true;
     } catch (err) {
@@ -64,7 +55,7 @@ export function AuthProvider({ children }) {
   // =========================
   const registrar = async (nombre, email, password) => {
     try {
-      const res = await fetch("http://localhost:5000/api/auth/register", {
+      const res = await fetch("http://localhost:5000/api/usuarios/register", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ nombre, email, password }),
@@ -72,12 +63,14 @@ export function AuthProvider({ children }) {
 
       const data = await res.json();
 
-      if (!data.mensaje) {
-        alert("Error al registrar");
+      if (!res.ok) {
+        alert(data.mensaje || "Error al registrar");
         return false;
       }
 
-      alert("Registro exitoso. Ahora inicia sesión.");
+      localStorage.setItem("token", data.token);
+      setUsuario({ nombre, email });
+
       return true;
     } catch (err) {
       console.error(err);
@@ -95,15 +88,7 @@ export function AuthProvider({ children }) {
   };
 
   return (
-    <AuthContext.Provider
-      value={{
-        usuario,
-        setUsuario,
-        login,
-        registrar,
-        logout,
-      }}
-    >
+    <AuthContext.Provider value={{ usuario, login, registrar, logout }}>
       {children}
     </AuthContext.Provider>
   );

@@ -4,9 +4,9 @@ import authMiddleware from "../middleware/auth.js";
 
 const router = express.Router();
 
-// =============================
+// =======================================================
 // 📌 1. OBTENER TODOS LOS JUEGOS DEL USUARIO LOGUEADO
-// =============================
+// =======================================================
 router.get("/", authMiddleware, async (req, res) => {
   try {
     const juegos = await Juego.find({ usuario: req.usuario.id });
@@ -17,15 +17,26 @@ router.get("/", authMiddleware, async (req, res) => {
   }
 });
 
-// =============================
-// 📌 2. AGREGAR JUEGO NUEVO
-// =============================
+// =======================================================
+// 📌 2. AGREGAR UN NUEVO JUEGO
+// =======================================================
 router.post("/", authMiddleware, async (req, res) => {
   try {
-    const { titulo, plataforma, genero, imagenPortada } = req.body;
+    const {
+      titulo,
+      plataforma,
+      genero,
+      imagenPortada,
+      añoLanzamiento,
+      desarrollador,
+      completado,
+      descripcion,
+    } = req.body;
 
     if (!titulo || !plataforma || !genero || !imagenPortada) {
-      return res.status(400).json({ mensaje: "Todos los campos son obligatorios" });
+      return res
+        .status(400)
+        .json({ mensaje: "Título, plataforma, género e imagen son obligatorios." });
     }
 
     const juego = new Juego({
@@ -33,42 +44,48 @@ router.post("/", authMiddleware, async (req, res) => {
       plataforma,
       genero,
       imagenPortada,
+      añoLanzamiento,
+      desarrollador,
+      completado,
+      descripcion,
       usuario: req.usuario.id,
     });
 
     const guardado = await juego.save();
     res.status(201).json(guardado);
   } catch (err) {
-    console.error(err);
-    res.status(500).json({ mensaje: "Error al agregar juego" });
+    console.error("Error al crear juego:", err);
+    res.status(500).json({ mensaje: "Error al crear juego" });
   }
 });
 
-// =============================
-// 📌 3. EDITAR JUEGO
-// =============================
+// =======================================================
+// 📌 3. EDITAR UN JUEGO
+// =======================================================
 router.put("/:id", authMiddleware, async (req, res) => {
   try {
     const { id } = req.params;
 
-    const juego = await Juego.findOneAndUpdate(
+    const juegoActualizado = await Juego.findOneAndUpdate(
       { _id: id, usuario: req.usuario.id },
       req.body,
       { new: true }
     );
 
-    if (!juego) return res.status(404).json({ mensaje: "Juego no encontrado" });
+    if (!juegoActualizado) {
+      return res.status(404).json({ mensaje: "Juego no encontrado" });
+    }
 
-    res.json(juego);
+    res.json(juegoActualizado);
   } catch (err) {
-    console.error(err);
+    console.error("Error al editar juego:", err);
     res.status(500).json({ mensaje: "Error al editar juego" });
   }
 });
 
-// =============================
-// 📌 4. ELIMINAR JUEGO
-// =============================
+// =======================================================
+// 📌 4. ELIMINAR UN JUEGO
+// =======================================================
 router.delete("/:id", authMiddleware, async (req, res) => {
   try {
     const { id } = req.params;
@@ -78,12 +95,13 @@ router.delete("/:id", authMiddleware, async (req, res) => {
       usuario: req.usuario.id,
     });
 
-    if (!eliminado)
+    if (!eliminado) {
       return res.status(404).json({ mensaje: "Juego no encontrado" });
+    }
 
     res.json({ mensaje: "Juego eliminado correctamente" });
   } catch (err) {
-    console.error(err);
+    console.error("Error al eliminar juego:", err);
     res.status(500).json({ mensaje: "Error al eliminar juego" });
   }
 });

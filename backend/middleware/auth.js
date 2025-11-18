@@ -6,17 +6,32 @@ dotenv.config();
 export default function authMiddleware(req, res, next) {
   const authHeader = req.headers.authorization;
 
-  if (!authHeader || !authHeader.startsWith("Bearer ")) {
-    return res.status(401).json({ mensaje: "Acceso denegado. No hay token." });
+  // No se envió encabezado
+  if (!authHeader) {
+    return res
+      .status(401)
+      .json({ mensaje: "Acceso denegado. No se encontró el token." });
   }
 
-  const token = authHeader.split(" ")[1];
+  // Debe venir como "Bearer token"
+  const [tipo, token] = authHeader.split(" ");
+
+  if (tipo !== "Bearer" || !token) {
+    return res
+      .status(401)
+      .json({ mensaje: "Token inválido o formato incorrecto." });
+  }
 
   try {
+    // Verificar token
     const verificado = jwt.verify(token, process.env.JWT_SECRET);
+
+    // Guardar usuario dentro del req
     req.usuario = verificado;
+
     next();
   } catch (error) {
-    res.status(401).json({ mensaje: "Token inválido" });
+    console.error("Error en authMiddleware:", error);
+    res.status(401).json({ mensaje: "Token inválido o expirado." });
   }
 }

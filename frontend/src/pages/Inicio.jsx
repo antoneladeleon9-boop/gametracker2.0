@@ -57,17 +57,25 @@ export default function Inicio() {
 
   return (
     <div className="contenedor">
-      <h1>GameTracker</h1>
-      <p>Bienvenido/a, {usuario?.nombre}</p>
 
-      <button onClick={logout} style={{ marginBottom: 20 }}>
+      {/* TÍTULO */}
+      <h1 className="titulo-app">🎮 GameTracker</h1>
+      <p className="bienvenida">
+        Bienvenido/a, <strong>{usuario?.nombre}</strong>
+      </p>
+
+      {/* BOTÓN LOGOUT */}
+      <button onClick={logout} className="btn-logout">
         Cerrar Sesión
       </button>
 
-      {/* FORMULARIO DE JUEGO DENTRO DE INICIO */}
-      <FormularioJuego onAgregar={agregarJuego} />
+      {/* FORMULARIO DE JUEGO */}
+      <div className="card-formulario">
+        <FormularioJuego onAgregar={agregarJuego} />
+      </div>
 
       {/* LISTA DE JUEGOS */}
+      <h2 className="subtitulo">📚 Tu biblioteca de juegos</h2>
       <div className="lista-juegos">
         {Array.isArray(juegos) &&
           juegos.map((juego) => (
