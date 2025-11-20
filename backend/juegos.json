@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=1"
+  },
+  {
+    "id": 2,
+    "titulo": "God of War Ragnarök",
+    "plataforma": "PS5",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=2"
+  },
+  {
+    "id": 3,
+    "titulo": "Red Dead Redemption 2",
+    "plataforma": "PC",
+    "genero": "Mundo Abierto",
+    "portada": "https://picsum.photos/300?random=3"
+  },
+  {
+    "id": 4,
+    "titulo": "Cyberpunk 2077",
+    "plataforma": "PC",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=4"
+  },
+  {
+    "id": 5,
+    "titulo": "Elden Ring",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=5"
+  },
+  {
+    "id": 6,
+    "titulo": "Minecraft",
+    "plataforma": "PC",
+    "genero": "Sandbox",
+    "portada": "https://picsum.photos/300?random=6"
+  },
+  {
+    "id": 7,
+    "titulo": "Fortnite",
+    "plataforma": "PC",
+    "genero": "Battle Royale",
+    "portada": "https://picsum.photos/300?random=7"
+  },
+  {
+    "id": 8,
+    "titulo": "League of Legends",
+    "plataforma": "PC",
+    "genero": "MOBA",
+    "portada": "https://picsum.photos/300?random=8"
+  },
+  {
+    "id": 9,
+    "titulo": "Valorant",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=9"
+  },
+  {
+    "id": 10,
+    "titulo": "GTA V",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=10"
+  },
+  {
+    "id": 11,
+    "titulo": "Juego Popular 11",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=11"
+  },
+  {
+    "id": 12,
+    "titulo": "Juego Popular 12",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=12"
+  },
+  {
+    "id": 13,
+    "titulo": "Juego Popular 13",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=13"
+  },
+  {
+    "id": 14,
+    "titulo": "Juego Popular 14",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=14"
+  },
+  {
+    "id": 15,
+    "titulo": "Juego Popular 15",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=15"
+  },
+  {
+    "id": 16,
+    "titulo": "Juego Popular 16",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=16"
+  },
+  {
+    "id": 17,
+    "titulo": "Juego Popular 17",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=17"
+  },
+  {
+    "id": 18,
+    "titulo": "Juego Popular 18",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=18"
+  },
+  {
+    "id": 19,
+    "titulo": "Juego Popular 19",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=19"
+  },
+  {
+    "id": 20,
+    "titulo": "Juego Popular 20",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=20"
+  },
+  {
+    "id": 21,
+    "titulo": "Juego Popular 21",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=21"
+  },
+  {
+    "id": 22,
+    "titulo": "Juego Popular 22",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=22"
+  },
+  {
+    "id": 23,
+    "titulo": "Juego Popular 23",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=23"
+  },
+  {
+    "id": 24,
+    "titulo": "Juego Popular 24",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=24"
+  },
+  {
+    "id": 25,
+    "titulo": "Juego Popular 25",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=25"
+  },
+  {
+    "id": 26,
+    "titulo": "Juego Popular 26",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=26"
+  },
+  {
+    "id": 27,
+    "titulo": "Juego Popular 27",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=27"
+  },
+  {
+    "id": 28,
+    "titulo": "Juego Popular 28",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=28"
+  },
+  {
+    "id": 29,
+    "titulo": "Juego Popular 29",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=29"
+  },
+  {
+    "id": 30,
+    "titulo": "Juego Popular 30",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=30"
+  },
+  {
+    "id": 31,
+    "titulo": "Juego Popular 31",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=31"
+  },
+  {
+    "id": 32,
+    "titulo": "Juego Popular 32",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=32"
+  },
+  {
+    "id": 33,
+    "titulo": "Juego Popular 33",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=33"
+  },
+  {
+    "id": 34,
+    "titulo": "Juego Popular 34",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=34"
+  },
+  {
+    "id": 35,
+    "titulo": "Juego Popular 35",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=35"
+  },
+  {
+    "id": 36,
+    "titulo": "Juego Popular 36",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=36"
+  },
+  {
+    "id": 37,
+    "titulo": "Juego Popular 37",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=37"
+  },
+  {
+    "id": 38,
+    "titulo": "Juego Popular 38",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=38"
+  },
+  {
+    "id": 39,
+    "titulo": "Juego Popular 39",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=39"
+  },
+  {
+    "id": 40,
+    "titulo": "Juego Popular 40",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=40"
+  },
+  {
+    "id": 41,
+    "titulo": "Juego Popular 41",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=41"
+  },
+  {
+    "id": 42,
+    "titulo": "Juego Popular 42",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=42"
+  },
+  {
+    "id": 43,
+    "titulo": "Juego Popular 43",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=43"
+  },
+  {
+    "id": 44,
+    "titulo": "Juego Popular 44",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=44"
+  },
+  {
+    "id": 45,
+    "titulo": "Juego Popular 45",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=45"
+  },
+  {
+    "id": 46,
+    "titulo": "Juego Popular 46",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=46"
+  },
+  {
+    "id": 47,
+    "titulo": "Juego Popular 47",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=47"
+  },
+  {
+    "id": 48,
+    "titulo": "Juego Popular 48",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=48"
+  },
+  {
+    "id": 49,
+    "titulo": "Juego Popular 49",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=49"
+  },
+  {
+    "id": 50,
+    "titulo": "Juego Popular 50",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=50"
+  },
+  {
+    "id": 51,
+    "titulo": "Juego Popular 51",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=51"
+  },
+  {
+    "id": 52,
+    "titulo": "Juego Popular 52",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=52"
+  },
+  {
+    "id": 53,
+    "titulo": "Juego Popular 53",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=53"
+  },
+  {
+    "id": 54,
+    "titulo": "Juego Popular 54",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=54"
+  },
+  {
+    "id": 55,
+    "titulo": "Juego Popular 55",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=55"
+  },
+  {
+    "id": 56,
+    "titulo": "Juego Popular 56",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=56"
+  },
+  {
+    "id": 57,
+    "titulo": "Juego Popular 57",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=57"
+  },
+  {
+    "id": 58,
+    "titulo": "Juego Popular 58",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=58"
+  },
+  {
+    "id": 59,
+    "titulo": "Juego Popular 59",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=59"
+  },
+  {
+    "id": 60,
+    "titulo": "Juego Popular 60",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=60"
+  },
+  {
+    "id": 61,
+    "titulo": "Juego Popular 61",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=61"
+  },
+  {
+    "id": 62,
+    "titulo": "Juego Popular 62",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=62"
+  },
+  {
+    "id": 63,
+    "titulo": "Juego Popular 63",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=63"
+  },
+  {
+    "id": 64,
+    "titulo": "Juego Popular 64",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=64"
+  },
+  {
+    "id": 65,
+    "titulo": "Juego Popular 65",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=65"
+  },
+  {
+    "id": 66,
+    "titulo": "Juego Popular 66",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=66"
+  },
+  {
+    "id": 67,
+    "titulo": "Juego Popular 67",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=67"
+  },
+  {
+    "id": 68,
+    "titulo": "Juego Popular 68",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=68"
+  },
+  {
+    "id": 69,
+    "titulo": "Juego Popular 69",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=69"
+  },
+  {
+    "id": 70,
+    "titulo": "Juego Popular 70",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=70"
+  },
+  {
+    "id": 71,
+    "titulo": "Juego Popular 71",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=71"
+  },
+  {
+    "id": 72,
+    "titulo": "Juego Popular 72",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=72"
+  },
+  {
+    "id": 73,
+    "titulo": "Juego Popular 73",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=73"
+  },
+  {
+    "id": 74,
+    "titulo": "Juego Popular 74",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=74"
+  },
+  {
+    "id": 75,
+    "titulo": "Juego Popular 75",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=75"
+  },
+  {
+    "id": 76,
+    "titulo": "Juego Popular 76",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=76"
+  },
+  {
+    "id": 77,
+    "titulo": "Juego Popular 77",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=77"
+  },
+  {
+    "id": 78,
+    "titulo": "Juego Popular 78",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=78"
+  },
+  {
+    "id": 79,
+    "titulo": "Juego Popular 79",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=79"
+  },
+  {
+    "id": 80,
+    "titulo": "Juego Popular 80",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=80"
+  },
+  {
+    "id": 81,
+    "titulo": "Juego Popular 81",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=81"
+  },
+  {
+    "id": 82,
+    "titulo": "Juego Popular 82",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=82"
+  },
+  {
+    "id": 83,
+    "titulo": "Juego Popular 83",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=83"
+  },
+  {
+    "id": 84,
+    "titulo": "Juego Popular 84",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=84"
+  },
+  {
+    "id": 85,
+    "titulo": "Juego Popular 85",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=85"
+  },
+  {
+    "id": 86,
+    "titulo": "Juego Popular 86",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=86"
+  },
+  {
+    "id": 87,
+    "titulo": "Juego Popular 87",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=87"
+  },
+  {
+    "id": 88,
+    "titulo": "Juego Popular 88",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=88"
+  },
+  {
+    "id": 89,
+    "titulo": "Juego Popular 89",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=89"
+  },
+  {
+    "id": 90,
+    "titulo": "Juego Popular 90",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=90"
+  },
+  {
+    "id": 91,
+    "titulo": "Juego Popular 91",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=91"
+  },
+  {
+    "id": 92,
+    "titulo": "Juego Popular 92",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=92"
+  },
+  {
+    "id": 93,
+    "titulo": "Juego Popular 93",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=93"
+  },
+  {
+    "id": 94,
+    "titulo": "Juego Popular 94",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=94"
+  },
+  {
+    "id": 95,
+    "titulo": "Juego Popular 95",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=95"
+  },
+  {
+    "id": 96,
+    "titulo": "Juego Popular 96",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=96"
+  },
+  {
+    "id": 97,
+    "titulo": "Juego Popular 97",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=97"
+  },
+  {
+    "id": 98,
+    "titulo": "Juego Popular 98",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=98"
+  },
+  {
+    "id": 99,
+    "titulo": "Juego Popular 99",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=99"
+  },
+  {
+    "id": 100,
+    "titulo": "Juego Popular 100",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=100"
+  },
+  {
+    "id": 101,
+    "titulo": "Juego Popular 101",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=101"
+  },
+  {
+    "id": 102,
+    "titulo": "Juego Popular 102",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=102"
+  },
+  {
+    "id": 103,
+    "titulo": "Juego Popular 103",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=103"
+  },
+  {
+    "id": 104,
+    "titulo": "Juego Popular 104",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=104"
+  },
+  {
+    "id": 105,
+    "titulo": "Juego Popular 105",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=105"
+  },
+  {
+    "id": 106,
+    "titulo": "Juego Popular 106",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=106"
+  },
+  {
+    "id": 107,
+    "titulo": "Juego Popular 107",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=107"
+  },
+  {
+    "id": 108,
+    "titulo": "Juego Popular 108",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=108"
+  },
+  {
+    "id": 109,
+    "titulo": "Juego Popular 109",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=109"
+  },
+  {
+    "id": 110,
+    "titulo": "Juego Popular 110",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=110"
+  },
+  {
+    "id": 111,
+    "titulo": "Juego Popular 111",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=111"
+  },
+  {
+    "id": 112,
+    "titulo": "Juego Popular 112",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=112"
+  },
+  {
+    "id": 113,
+    "titulo": "Juego Popular 113",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=113"
+  },
+  {
+    "id": 114,
+    "titulo": "Juego Popular 114",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=114"
+  },
+  {
+    "id": 115,
+    "titulo": "Juego Popular 115",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=115"
+  },
+  {
+    "id": 116,
+    "titulo": "Juego Popular 116",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=116"
+  },
+  {
+    "id": 117,
+    "titulo": "Juego Popular 117",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=117"
+  },
+  {
+    "id": 118,
+    "titulo": "Juego Popular 118",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=118"
+  },
+  {
+    "id": 119,
+    "titulo": "Juego Popular 119",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=119"
+  },
+  {
+    "id": 120,
+    "titulo": "Juego Popular 120",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=120"
+  },
+  {
+    "id": 121,
+    "titulo": "Juego Popular 121",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=121"
+  },
+  {
+    "id": 122,
+    "titulo": "Juego Popular 122",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=122"
+  },
+  {
+    "id": 123,
+    "titulo": "Juego Popular 123",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=123"
+  },
+  {
+    "id": 124,
+    "titulo": "Juego Popular 124",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=124"
+  },
+  {
+    "id": 125,
+    "titulo": "Juego Popular 125",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=125"
+  },
+  {
+    "id": 126,
+    "titulo": "Juego Popular 126",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=126"
+  },
+  {
+    "id": 127,
+    "titulo": "Juego Popular 127",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=127"
+  },
+  {
+    "id": 128,
+    "titulo": "Juego Popular 128",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=128"
+  },
+  {
+    "id": 129,
+    "titulo": "Juego Popular 129",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=129"
+  },
+  {
+    "id": 130,
+    "titulo": "Juego Popular 130",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=130"
+  },
+  {
+    "id": 131,
+    "titulo": "Juego Popular 131",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=131"
+  },
+  {
+    "id": 132,
+    "titulo": "Juego Popular 132",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=132"
+  },
+  {
+    "id": 133,
+    "titulo": "Juego Popular 133",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=133"
+  },
+  {
+    "id": 134,
+    "titulo": "Juego Popular 134",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=134"
+  },
+  {
+    "id": 135,
+    "titulo": "Juego Popular 135",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=135"
+  },
+  {
+    "id": 136,
+    "titulo": "Juego Popular 136",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=136"
+  },
+  {
+    "id": 137,
+    "titulo": "Juego Popular 137",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=137"
+  },
+  {
+    "id": 138,
+    "titulo": "Juego Popular 138",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=138"
+  },
+  {
+    "id": 139,
+    "titulo": "Juego Popular 139",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=139"
+  },
+  {
+    "id": 140,
+    "titulo": "Juego Popular 140",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=140"
+  },
+  {
+    "id": 141,
+    "titulo": "Juego Popular 141",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=141"
+  },
+  {
+    "id": 142,
+    "titulo": "Juego Popular 142",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=142"
+  },
+  {
+    "id": 143,
+    "titulo": "Juego Popular 143",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=143"
+  },
+  {
+    "id": 144,
+    "titulo": "Juego Popular 144",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=144"
+  },
+  {
+    "id": 145,
+    "titulo": "Juego Popular 145",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=145"
+  },
+  {
+    "id": 146,
+    "titulo": "Juego Popular 146",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=146"
+  },
+  {
+    "id": 147,
+    "titulo": "Juego Popular 147",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=147"
+  },
+  {
+    "id": 148,
+    "titulo": "Juego Popular 148",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=148"
+  },
+  {
+    "id": 149,
+    "titulo": "Juego Popular 149",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=149"
+  },
+  {
+    "id": 150,
+    "titulo": "Juego Popular 150",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=150"
+  },
+  {
+    "id": 151,
+    "titulo": "Juego Popular 151",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=151"
+  },
+  {
+    "id": 152,
+    "titulo": "Juego Popular 152",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=152"
+  },
+  {
+    "id": 153,
+    "titulo": "Juego Popular 153",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=153"
+  },
+  {
+    "id": 154,
+    "titulo": "Juego Popular 154",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=154"
+  },
+  {
+    "id": 155,
+    "titulo": "Juego Popular 155",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=155"
+  },
+  {
+    "id": 156,
+    "titulo": "Juego Popular 156",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=156"
+  },
+  {
+    "id": 157,
+    "titulo": "Juego Popular 157",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=157"
+  },
+  {
+    "id": 158,
+    "titulo": "Juego Popular 158",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=158"
+  },
+  {
+    "id": 159,
+    "titulo": "Juego Popular 159",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=159"
+  },
+  {
+    "id": 160,
+    "titulo": "Juego Popular 160",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=160"
+  },
+  {
+    "id": 161,
+    "titulo": "Juego Popular 161",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=161"
+  },
+  {
+    "id": 162,
+    "titulo": "Juego Popular 162",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=162"
+  },
+  {
+    "id": 163,
+    "titulo": "Juego Popular 163",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=163"
+  },
+  {
+    "id": 164,
+    "titulo": "Juego Popular 164",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=164"
+  },
+  {
+    "id": 165,
+    "titulo": "Juego Popular 165",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=165"
+  },
+  {
+    "id": 166,
+    "titulo": "Juego Popular 166",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=166"
+  },
+  {
+    "id": 167,
+    "titulo": "Juego Popular 167",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=167"
+  },
+  {
+    "id": 168,
+    "titulo": "Juego Popular 168",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=168"
+  },
+  {
+    "id": 169,
+    "titulo": "Juego Popular 169",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=169"
+  },
+  {
+    "id": 170,
+    "titulo": "Juego Popular 170",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=170"
+  },
+  {
+    "id": 171,
+    "titulo": "Juego Popular 171",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=171"
+  },
+  {
+    "id": 172,
+    "titulo": "Juego Popular 172",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=172"
+  },
+  {
+    "id": 173,
+    "titulo": "Juego Popular 173",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=173"
+  },
+  {
+    "id": 174,
+    "titulo": "Juego Popular 174",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=174"
+  },
+  {
+    "id": 175,
+    "titulo": "Juego Popular 175",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=175"
+  },
+  {
+    "id": 176,
+    "titulo": "Juego Popular 176",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=176"
+  },
+  {
+    "id": 177,
+    "titulo": "Juego Popular 177",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=177"
+  },
+  {
+    "id": 178,
+    "titulo": "Juego Popular 178",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=178"
+  },
+  {
+    "id": 179,
+    "titulo": "Juego Popular 179",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=179"
+  },
+  {
+    "id": 180,
+    "titulo": "Juego Popular 180",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=180"
+  },
+  {
+    "id": 181,
+    "titulo": "Juego Popular 181",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=181"
+  },
+  {
+    "id": 182,
+    "titulo": "Juego Popular 182",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=182"
+  },
+  {
+    "id": 183,
+    "titulo": "Juego Popular 183",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=183"
+  },
+  {
+    "id": 184,
+    "titulo": "Juego Popular 184",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=184"
+  },
+  {
+    "id": 185,
+    "titulo": "Juego Popular 185",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=185"
+  },
+  {
+    "id": 186,
+    "titulo": "Juego Popular 186",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=186"
+  },
+  {
+    "id": 187,
+    "titulo": "Juego Popular 187",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=187"
+  },
+  {
+    "id": 188,
+    "titulo": "Juego Popular 188",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=188"
+  },
+  {
+    "id": 189,
+    "titulo": "Juego Popular 189",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=189"
+  },
+  {
+    "id": 190,
+    "titulo": "Juego Popular 190",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=190"
+  },
+  {
+    "id": 191,
+    "titulo": "Juego Popular 191",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=191"
+  },
+  {
+    "id": 192,
+    "titulo": "Juego Popular 192",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=192"
+  },
+  {
+    "id": 193,
+    "titulo": "Juego Popular 193",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=193"
+  },
+  {
+    "id": 194,
+    "titulo": "Juego Popular 194",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=194"
+  },
+  {
+    "id": 195,
+    "titulo": "Juego Popular 195",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=195"
+  },
+  {
+    "id": 196,
+    "titulo": "Juego Popular 196",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=196"
+  },
+  {
+    "id": 197,
+    "titulo": "Juego Popular 197",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=197"
+  },
+  {
+    "id": 198,
+    "titulo": "Juego Popular 198",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=198"
+  },
+  {
+    "id": 199,
+    "titulo": "Juego Popular 199",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=199"
+  },
+  {
+    "id": 200,
+    "titulo": "Juego Popular 200",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=200"
+  },
+  {
+    "id": 201,
+    "titulo": "Juego Popular 201",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=201"
+  },
+  {
+    "id": 202,
+    "titulo": "Juego Popular 202",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=202"
+  },
+  {
+    "id": 203,
+    "titulo": "Juego Popular 203",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=203"
+  },
+  {
+    "id": 204,
+    "titulo": "Juego Popular 204",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=204"
+  },
+  {
+    "id": 205,
+    "titulo": "Juego Popular 205",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=205"
+  },
+  {
+    "id": 206,
+    "titulo": "Juego Popular 206",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=206"
+  },
+  {
+    "id": 207,
+    "titulo": "Juego Popular 207",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=207"
+  },
+  {
+    "id": 208,
+    "titulo": "Juego Popular 208",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=208"
+  },
+  {
+    "id": 209,
+    "titulo": "Juego Popular 209",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=209"
+  },
+  {
+    "id": 210,
+    "titulo": "Juego Popular 210",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=210"
+  },
+  {
+    "id": 211,
+    "titulo": "Juego Popular 211",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=211"
+  },
+  {
+    "id": 212,
+    "titulo": "Juego Popular 212",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=212"
+  },
+  {
+    "id": 213,
+    "titulo": "Juego Popular 213",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=213"
+  },
+  {
+    "id": 214,
+    "titulo": "Juego Popular 214",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=214"
+  },
+  {
+    "id": 215,
+    "titulo": "Juego Popular 215",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=215"
+  },
+  {
+    "id": 216,
+    "titulo": "Juego Popular 216",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=216"
+  },
+  {
+    "id": 217,
+    "titulo": "Juego Popular 217",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=217"
+  },
+  {
+    "id": 218,
+    "titulo": "Juego Popular 218",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=218"
+  },
+  {
+    "id": 219,
+    "titulo": "Juego Popular 219",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=219"
+  },
+  {
+    "id": 220,
+    "titulo": "Juego Popular 220",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=220"
+  },
+  {
+    "id": 221,
+    "titulo": "Juego Popular 221",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=221"
+  },
+  {
+    "id": 222,
+    "titulo": "Juego Popular 222",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=222"
+  },
+  {
+    "id": 223,
+    "titulo": "Juego Popular 223",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=223"
+  },
+  {
+    "id": 224,
+    "titulo": "Juego Popular 224",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=224"
+  },
+  {
+    "id": 225,
+    "titulo": "Juego Popular 225",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=225"
+  },
+  {
+    "id": 226,
+    "titulo": "Juego Popular 226",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=226"
+  },
+  {
+    "id": 227,
+    "titulo": "Juego Popular 227",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=227"
+  },
+  {
+    "id": 228,
+    "titulo": "Juego Popular 228",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=228"
+  },
+  {
+    "id": 229,
+    "titulo": "Juego Popular 229",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=229"
+  },
+  {
+    "id": 230,
+    "titulo": "Juego Popular 230",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=230"
+  },
+  {
+    "id": 231,
+    "titulo": "Juego Popular 231",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=231"
+  },
+  {
+    "id": 232,
+    "titulo": "Juego Popular 232",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=232"
+  },
+  {
+    "id": 233,
+    "titulo": "Juego Popular 233",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=233"
+  },
+  {
+    "id": 234,
+    "titulo": "Juego Popular 234",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=234"
+  },
+  {
+    "id": 235,
+    "titulo": "Juego Popular 235",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=235"
+  },
+  {
+    "id": 236,
+    "titulo": "Juego Popular 236",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=236"
+  },
+  {
+    "id": 237,
+    "titulo": "Juego Popular 237",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=237"
+  },
+  {
+    "id": 238,
+    "titulo": "Juego Popular 238",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=238"
+  },
+  {
+    "id": 239,
+    "titulo": "Juego Popular 239",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=239"
+  },
+  {
+    "id": 240,
+    "titulo": "Juego Popular 240",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=240"
+  },
+  {
+    "id": 241,
+    "titulo": "Juego Popular 241",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=241"
+  },
+  {
+    "id": 242,
+    "titulo": "Juego Popular 242",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=242"
+  },
+  {
+    "id": 243,
+    "titulo": "Juego Popular 243",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=243"
+  },
+  {
+    "id": 244,
+    "titulo": "Juego Popular 244",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=244"
+  },
+  {
+    "id": 245,
+    "titulo": "Juego Popular 245",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=245"
+  },
+  {
+    "id": 246,
+    "titulo": "Juego Popular 246",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=246"
+  },
+  {
+    "id": 247,
+    "titulo": "Juego Popular 247",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=247"
+  },
+  {
+    "id": 248,
+    "titulo": "Juego Popular 248",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=248"
+  },
+  {
+    "id": 249,
+    "titulo": "Juego Popular 249",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=249"
+  },
+  {
+    "id": 250,
+    "titulo": "Juego Popular 250",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=250"
+  },
+  {
+    "id": 251,
+    "titulo": "Juego Popular 251",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=251"
+  },
+  {
+    "id": 252,
+    "titulo": "Juego Popular 252",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=252"
+  },
+  {
+    "id": 253,
+    "titulo": "Juego Popular 253",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=253"
+  },
+  {
+    "id": 254,
+    "titulo": "Juego Popular 254",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=254"
+  },
+  {
+    "id": 255,
+    "titulo": "Juego Popular 255",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=255"
+  },
+  {
+    "id": 256,
+    "titulo": "Juego Popular 256",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=256"
+  },
+  {
+    "id": 257,
+    "titulo": "Juego Popular 257",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=257"
+  },
+  {
+    "id": 258,
+    "titulo": "Juego Popular 258",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=258"
+  },
+  {
+    "id": 259,
+    "titulo": "Juego Popular 259",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=259"
+  },
+  {
+    "id": 260,
+    "titulo": "Juego Popular 260",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=260"
+  },
+  {
+    "id": 261,
+    "titulo": "Juego Popular 261",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=261"
+  },
+  {
+    "id": 262,
+    "titulo": "Juego Popular 262",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=262"
+  },
+  {
+    "id": 263,
+    "titulo": "Juego Popular 263",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=263"
+  },
+  {
+    "id": 264,
+    "titulo": "Juego Popular 264",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=264"
+  },
+  {
+    "id": 265,
+    "titulo": "Juego Popular 265",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=265"
+  },
+  {
+    "id": 266,
+    "titulo": "Juego Popular 266",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=266"
+  },
+  {
+    "id": 267,
+    "titulo": "Juego Popular 267",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=267"
+  },
+  {
+    "id": 268,
+    "titulo": "Juego Popular 268",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=268"
+  },
+  {
+    "id": 269,
+    "titulo": "Juego Popular 269",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=269"
+  },
+  {
+    "id": 270,
+    "titulo": "Juego Popular 270",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=270"
+  },
+  {
+    "id": 271,
+    "titulo": "Juego Popular 271",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=271"
+  },
+  {
+    "id": 272,
+    "titulo": "Juego Popular 272",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=272"
+  },
+  {
+    "id": 273,
+    "titulo": "Juego Popular 273",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=273"
+  },
+  {
+    "id": 274,
+    "titulo": "Juego Popular 274",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=274"
+  },
+  {
+    "id": 275,
+    "titulo": "Juego Popular 275",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=275"
+  },
+  {
+    "id": 276,
+    "titulo": "Juego Popular 276",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=276"
+  },
+  {
+    "id": 277,
+    "titulo": "Juego Popular 277",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=277"
+  },
+  {
+    "id": 278,
+    "titulo": "Juego Popular 278",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=278"
+  },
+  {
+    "id": 279,
+    "titulo": "Juego Popular 279",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=279"
+  },
+  {
+    "id": 280,
+    "titulo": "Juego Popular 280",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=280"
+  },
+  {
+    "id": 281,
+    "titulo": "Juego Popular 281",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=281"
+  },
+  {
+    "id": 282,
+    "titulo": "Juego Popular 282",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=282"
+  },
+  {
+    "id": 283,
+    "titulo": "Juego Popular 283",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=283"
+  },
+  {
+    "id": 284,
+    "titulo": "Juego Popular 284",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=284"
+  },
+  {
+    "id": 285,
+    "titulo": "Juego Popular 285",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=285"
+  },
+  {
+    "id": 286,
+    "titulo": "Juego Popular 286",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=286"
+  },
+  {
+    "id": 287,
+    "titulo": "Juego Popular 287",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=287"
+  },
+  {
+    "id": 288,
+    "titulo": "Juego Popular 288",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=288"
+  },
+  {
+    "id": 289,
+    "titulo": "Juego Popular 289",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=289"
+  },
+  {
+    "id": 290,
+    "titulo": "Juego Popular 290",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=290"
+  },
+  {
+    "id": 291,
+    "titulo": "Juego Popular 291",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=291"
+  },
+  {
+    "id": 292,
+    "titulo": "Juego Popular 292",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=292"
+  },
+  {
+    "id": 293,
+    "titulo": "Juego Popular 293",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=293"
+  },
+  {
+    "id": 294,
+    "titulo": "Juego Popular 294",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=294"
+  },
+  {
+    "id": 295,
+    "titulo": "Juego Popular 295",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=295"
+  },
+  {
+    "id": 296,
+    "titulo": "Juego Popular 296",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=296"
+  },
+  {
+    "id": 297,
+    "titulo": "Juego Popular 297",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=297"
+  },
+  {
+    "id": 298,
+    "titulo": "Juego Popular 298",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=298"
+  },
+  {
+    "id": 299,
+    "titulo": "Juego Popular 299",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=299"
+  },
+  {
+    "id": 300,
+    "titulo": "Juego Popular 300",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=300"
+  },
+  {
+    "id": 301,
+    "titulo": "Juego Popular 301",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=301"
+  },
+  {
+    "id": 302,
+    "titulo": "Juego Popular 302",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=302"
+  },
+  {
+    "id": 303,
+    "titulo": "Juego Popular 303",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=303"
+  },
+  {
+    "id": 304,
+    "titulo": "Juego Popular 304",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=304"
+  },
+  {
+    "id": 305,
+    "titulo": "Juego Popular 305",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=305"
+  },
+  {
+    "id": 306,
+    "titulo": "Juego Popular 306",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=306"
+  },
+  {
+    "id": 307,
+    "titulo": "Juego Popular 307",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=307"
+  },
+  {
+    "id": 308,
+    "titulo": "Juego Popular 308",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=308"
+  },
+  {
+    "id": 309,
+    "titulo": "Juego Popular 309",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=309"
+  },
+  {
+    "id": 310,
+    "titulo": "Juego Popular 310",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=310"
+  },
+  {
+    "id": 311,
+    "titulo": "Juego Popular 311",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=311"
+  },
+  {
+    "id": 312,
+    "titulo": "Juego Popular 312",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=312"
+  },
+  {
+    "id": 313,
+    "titulo": "Juego Popular 313",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=313"
+  },
+  {
+    "id": 314,
+    "titulo": "Juego Popular 314",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=314"
+  },
+  {
+    "id": 315,
+    "titulo": "Juego Popular 315",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=315"
+  },
+  {
+    "id": 316,
+    "titulo": "Juego Popular 316",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=316"
+  },
+  {
+    "id": 317,
+    "titulo": "Juego Popular 317",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=317"
+  },
+  {
+    "id": 318,
+    "titulo": "Juego Popular 318",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=318"
+  },
+  {
+    "id": 319,
+    "titulo": "Juego Popular 319",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=319"
+  },
+  {
+    "id": 320,
+    "titulo": "Juego Popular 320",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=320"
+  },
+  {
+    "id": 321,
+    "titulo": "Juego Popular 321",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=321"
+  },
+  {
+    "id": 322,
+    "titulo": "Juego Popular 322",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=322"
+  },
+  {
+    "id": 323,
+    "titulo": "Juego Popular 323",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=323"
+  },
+  {
+    "id": 324,
+    "titulo": "Juego Popular 324",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=324"
+  },
+  {
+    "id": 325,
+    "titulo": "Juego Popular 325",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=325"
+  },
+  {
+    "id": 326,
+    "titulo": "Juego Popular 326",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=326"
+  },
+  {
+    "id": 327,
+    "titulo": "Juego Popular 327",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=327"
+  },
+  {
+    "id": 328,
+    "titulo": "Juego Popular 328",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=328"
+  },
+  {
+    "id": 329,
+    "titulo": "Juego Popular 329",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=329"
+  },
+  {
+    "id": 330,
+    "titulo": "Juego Popular 330",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=330"
+  },
+  {
+    "id": 331,
+    "titulo": "Juego Popular 331",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=331"
+  },
+  {
+    "id": 332,
+    "titulo": "Juego Popular 332",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=332"
+  },
+  {
+    "id": 333,
+    "titulo": "Juego Popular 333",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=333"
+  },
+  {
+    "id": 334,
+    "titulo": "Juego Popular 334",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=334"
+  },
+  {
+    "id": 335,
+    "titulo": "Juego Popular 335",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=335"
+  },
+  {
+    "id": 336,
+    "titulo": "Juego Popular 336",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=336"
+  },
+  {
+    "id": 337,
+    "titulo": "Juego Popular 337",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=337"
+  },
+  {
+    "id": 338,
+    "titulo": "Juego Popular 338",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=338"
+  },
+  {
+    "id": 339,
+    "titulo": "Juego Popular 339",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=339"
+  },
+  {
+    "id": 340,
+    "titulo": "Juego Popular 340",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=340"
+  },
+  {
+    "id": 341,
+    "titulo": "Juego Popular 341",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=341"
+  },
+  {
+    "id": 342,
+    "titulo": "Juego Popular 342",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=342"
+  },
+  {
+    "id": 343,
+    "titulo": "Juego Popular 343",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=343"
+  },
+  {
+    "id": 344,
+    "titulo": "Juego Popular 344",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=344"
+  },
+  {
+    "id": 345,
+    "titulo": "Juego Popular 345",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=345"
+  },
+  {
+    "id": 346,
+    "titulo": "Juego Popular 346",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=346"
+  },
+  {
+    "id": 347,
+    "titulo": "Juego Popular 347",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=347"
+  },
+  {
+    "id": 348,
+    "titulo": "Juego Popular 348",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=348"
+  },
+  {
+    "id": 349,
+    "titulo": "Juego Popular 349",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=349"
+  },
+  {
+    "id": 350,
+    "titulo": "Juego Popular 350",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=350"
+  },
+  {
+    "id": 351,
+    "titulo": "Juego Popular 351",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=351"
+  },
+  {
+    "id": 352,
+    "titulo": "Juego Popular 352",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=352"
+  },
+  {
+    "id": 353,
+    "titulo": "Juego Popular 353",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=353"
+  },
+  {
+    "id": 354,
+    "titulo": "Juego Popular 354",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=354"
+  },
+  {
+    "id": 355,
+    "titulo": "Juego Popular 355",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=355"
+  },
+  {
+    "id": 356,
+    "titulo": "Juego Popular 356",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=356"
+  },
+  {
+    "id": 357,
+    "titulo": "Juego Popular 357",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=357"
+  },
+  {
+    "id": 358,
+    "titulo": "Juego Popular 358",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=358"
+  },
+  {
+    "id": 359,
+    "titulo": "Juego Popular 359",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=359"
+  },
+  {
+    "id": 360,
+    "titulo": "Juego Popular 360",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=360"
+  },
+  {
+    "id": 361,
+    "titulo": "Juego Popular 361",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=361"
+  },
+  {
+    "id": 362,
+    "titulo": "Juego Popular 362",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=362"
+  },
+  {
+    "id": 363,
+    "titulo": "Juego Popular 363",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=363"
+  },
+  {
+    "id": 364,
+    "titulo": "Juego Popular 364",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=364"
+  },
+  {
+    "id": 365,
+    "titulo": "Juego Popular 365",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=365"
+  },
+  {
+    "id": 366,
+    "titulo": "Juego Popular 366",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=366"
+  },
+  {
+    "id": 367,
+    "titulo": "Juego Popular 367",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=367"
+  },
+  {
+    "id": 368,
+    "titulo": "Juego Popular 368",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=368"
+  },
+  {
+    "id": 369,
+    "titulo": "Juego Popular 369",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=369"
+  },
+  {
+    "id": 370,
+    "titulo": "Juego Popular 370",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=370"
+  },
+  {
+    "id": 371,
+    "titulo": "Juego Popular 371",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=371"
+  },
+  {
+    "id": 372,
+    "titulo": "Juego Popular 372",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=372"
+  },
+  {
+    "id": 373,
+    "titulo": "Juego Popular 373",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=373"
+  },
+  {
+    "id": 374,
+    "titulo": "Juego Popular 374",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=374"
+  },
+  {
+    "id": 375,
+    "titulo": "Juego Popular 375",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=375"
+  },
+  {
+    "id": 376,
+    "titulo": "Juego Popular 376",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=376"
+  },
+  {
+    "id": 377,
+    "titulo": "Juego Popular 377",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=377"
+  },
+  {
+    "id": 378,
+    "titulo": "Juego Popular 378",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=378"
+  },
+  {
+    "id": 379,
+    "titulo": "Juego Popular 379",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=379"
+  },
+  {
+    "id": 380,
+    "titulo": "Juego Popular 380",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=380"
+  },
+  {
+    "id": 381,
+    "titulo": "Juego Popular 381",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=381"
+  },
+  {
+    "id": 382,
+    "titulo": "Juego Popular 382",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=382"
+  },
+  {
+    "id": 383,
+    "titulo": "Juego Popular 383",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=383"
+  },
+  {
+    "id": 384,
+    "titulo": "Juego Popular 384",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=384"
+  },
+  {
+    "id": 385,
+    "titulo": "Juego Popular 385",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=385"
+  },
+  {
+    "id": 386,
+    "titulo": "Juego Popular 386",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=386"
+  },
+  {
+    "id": 387,
+    "titulo": "Juego Popular 387",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=387"
+  },
+  {
+    "id": 388,
+    "titulo": "Juego Popular 388",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=388"
+  },
+  {
+    "id": 389,
+    "titulo": "Juego Popular 389",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=389"
+  },
+  {
+    "id": 390,
+    "titulo": "Juego Popular 390",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=390"
+  },
+  {
+    "id": 391,
+    "titulo": "Juego Popular 391",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=391"
+  },
+  {
+    "id": 392,
+    "titulo": "Juego Popular 392",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=392"
+  },
+  {
+    "id": 393,
+    "titulo": "Juego Popular 393",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=393"
+  },
+  {
+    "id": 394,
+    "titulo": "Juego Popular 394",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=394"
+  },
+  {
+    "id": 395,
+    "titulo": "Juego Popular 395",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=395"
+  },
+  {
+    "id": 396,
+    "titulo": "Juego Popular 396",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=396"
+  },
+  {
+    "id": 397,
+    "titulo": "Juego Popular 397",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=397"
+  },
+  {
+    "id": 398,
+    "titulo": "Juego Popular 398",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=398"
+  },
+  {
+    "id": 399,
+    "titulo": "Juego Popular 399",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=399"
+  },
+  {
+    "id": 400,
+    "titulo": "Juego Popular 400",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=400"
+  },
+  {
+    "id": 401,
+    "titulo": "Juego Popular 401",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=401"
+  },
+  {
+    "id": 402,
+    "titulo": "Juego Popular 402",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=402"
+  },
+  {
+    "id": 403,
+    "titulo": "Juego Popular 403",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=403"
+  },
+  {
+    "id": 404,
+    "titulo": "Juego Popular 404",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=404"
+  },
+  {
+    "id": 405,
+    "titulo": "Juego Popular 405",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=405"
+  },
+  {
+    "id": 406,
+    "titulo": "Juego Popular 406",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=406"
+  },
+  {
+    "id": 407,
+    "titulo": "Juego Popular 407",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=407"
+  },
+  {
+    "id": 408,
+    "titulo": "Juego Popular 408",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=408"
+  },
+  {
+    "id": 409,
+    "titulo": "Juego Popular 409",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=409"
+  },
+  {
+    "id": 410,
+    "titulo": "Juego Popular 410",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=410"
+  },
+  {
+    "id": 411,
+    "titulo": "Juego Popular 411",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=411"
+  },
+  {
+    "id": 412,
+    "titulo": "Juego Popular 412",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=412"
+  },
+  {
+    "id": 413,
+    "titulo": "Juego Popular 413",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=413"
+  },
+  {
+    "id": 414,
+    "titulo": "Juego Popular 414",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=414"
+  },
+  {
+    "id": 415,
+    "titulo": "Juego Popular 415",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=415"
+  },
+  {
+    "id": 416,
+    "titulo": "Juego Popular 416",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=416"
+  },
+  {
+    "id": 417,
+    "titulo": "Juego Popular 417",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=417"
+  },
+  {
+    "id": 418,
+    "titulo": "Juego Popular 418",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=418"
+  },
+  {
+    "id": 419,
+    "titulo": "Juego Popular 419",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=419"
+  },
+  {
+    "id": 420,
+    "titulo": "Juego Popular 420",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=420"
+  },
+  {
+    "id": 421,
+    "titulo": "Juego Popular 421",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=421"
+  },
+  {
+    "id": 422,
+    "titulo": "Juego Popular 422",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=422"
+  },
+  {
+    "id": 423,
+    "titulo": "Juego Popular 423",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=423"
+  },
+  {
+    "id": 424,
+    "titulo": "Juego Popular 424",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=424"
+  },
+  {
+    "id": 425,
+    "titulo": "Juego Popular 425",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=425"
+  },
+  {
+    "id": 426,
+    "titulo": "Juego Popular 426",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=426"
+  },
+  {
+    "id": 427,
+    "titulo": "Juego Popular 427",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=427"
+  },
+  {
+    "id": 428,
+    "titulo": "Juego Popular 428",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=428"
+  },
+  {
+    "id": 429,
+    "titulo": "Juego Popular 429",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=429"
+  },
+  {
+    "id": 430,
+    "titulo": "Juego Popular 430",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=430"
+  },
+  {
+    "id": 431,
+    "titulo": "Juego Popular 431",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=431"
+  },
+  {
+    "id": 432,
+    "titulo": "Juego Popular 432",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=432"
+  },
+  {
+    "id": 433,
+    "titulo": "Juego Popular 433",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=433"
+  },
+  {
+    "id": 434,
+    "titulo": "Juego Popular 434",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=434"
+  },
+  {
+    "id": 435,
+    "titulo": "Juego Popular 435",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=435"
+  },
+  {
+    "id": 436,
+    "titulo": "Juego Popular 436",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=436"
+  },
+  {
+    "id": 437,
+    "titulo": "Juego Popular 437",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=437"
+  },
+  {
+    "id": 438,
+    "titulo": "Juego Popular 438",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=438"
+  },
+  {
+    "id": 439,
+    "titulo": "Juego Popular 439",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=439"
+  },
+  {
+    "id": 440,
+    "titulo": "Juego Popular 440",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=440"
+  },
+  {
+    "id": 441,
+    "titulo": "Juego Popular 441",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=441"
+  },
+  {
+    "id": 442,
+    "titulo": "Juego Popular 442",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=442"
+  },
+  {
+    "id": 443,
+    "titulo": "Juego Popular 443",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=443"
+  },
+  {
+    "id": 444,
+    "titulo": "Juego Popular 444",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=444"
+  },
+  {
+    "id": 445,
+    "titulo": "Juego Popular 445",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=445"
+  },
+  {
+    "id": 446,
+    "titulo": "Juego Popular 446",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=446"
+  },
+  {
+    "id": 447,
+    "titulo": "Juego Popular 447",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=447"
+  },
+  {
+    "id": 448,
+    "titulo": "Juego Popular 448",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=448"
+  },
+  {
+    "id": 449,
+    "titulo": "Juego Popular 449",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=449"
+  },
+  {
+    "id": 450,
+    "titulo": "Juego Popular 450",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=450"
+  },
+  {
+    "id": 451,
+    "titulo": "Juego Popular 451",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=451"
+  },
+  {
+    "id": 452,
+    "titulo": "Juego Popular 452",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=452"
+  },
+  {
+    "id": 453,
+    "titulo": "Juego Popular 453",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=453"
+  },
+  {
+    "id": 454,
+    "titulo": "Juego Popular 454",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=454"
+  },
+  {
+    "id": 455,
+    "titulo": "Juego Popular 455",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=455"
+  },
+  {
+    "id": 456,
+    "titulo": "Juego Popular 456",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=456"
+  },
+  {
+    "id": 457,
+    "titulo": "Juego Popular 457",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=457"
+  },
+  {
+    "id": 458,
+    "titulo": "Juego Popular 458",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=458"
+  },
+  {
+    "id": 459,
+    "titulo": "Juego Popular 459",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=459"
+  },
+  {
+    "id": 460,
+    "titulo": "Juego Popular 460",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=460"
+  },
+  {
+    "id": 461,
+    "titulo": "Juego Popular 461",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=461"
+  },
+  {
+    "id": 462,
+    "titulo": "Juego Popular 462",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=462"
+  },
+  {
+    "id": 463,
+    "titulo": "Juego Popular 463",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=463"
+  },
+  {
+    "id": 464,
+    "titulo": "Juego Popular 464",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=464"
+  },
+  {
+    "id": 465,
+    "titulo": "Juego Popular 465",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=465"
+  },
+  {
+    "id": 466,
+    "titulo": "Juego Popular 466",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=466"
+  },
+  {
+    "id": 467,
+    "titulo": "Juego Popular 467",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=467"
+  },
+  {
+    "id": 468,
+    "titulo": "Juego Popular 468",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=468"
+  },
+  {
+    "id": 469,
+    "titulo": "Juego Popular 469",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=469"
+  },
+  {
+    "id": 470,
+    "titulo": "Juego Popular 470",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=470"
+  },
+  {
+    "id": 471,
+    "titulo": "Juego Popular 471",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=471"
+  },
+  {
+    "id": 472,
+    "titulo": "Juego Popular 472",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=472"
+  },
+  {
+    "id": 473,
+    "titulo": "Juego Popular 473",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=473"
+  },
+  {
+    "id": 474,
+    "titulo": "Juego Popular 474",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=474"
+  },
+  {
+    "id": 475,
+    "titulo": "Juego Popular 475",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=475"
+  },
+  {
+    "id": 476,
+    "titulo": "Juego Popular 476",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=476"
+  },
+  {
+    "id": 477,
+    "titulo": "Juego Popular 477",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=477"
+  },
+  {
+    "id": 478,
+    "titulo": "Juego Popular 478",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=478"
+  },
+  {
+    "id": 479,
+    "titulo": "Juego Popular 479",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=479"
+  },
+  {
+    "id": 480,
+    "titulo": "Juego Popular 480",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=480"
+  },
+  {
+    "id": 481,
+    "titulo": "Juego Popular 481",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=481"
+  },
+  {
+    "id": 482,
+    "titulo": "Juego Popular 482",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=482"
+  },
+  {
+    "id": 483,
+    "titulo": "Juego Popular 483",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=483"
+  },
+  {
+    "id": 484,
+    "titulo": "Juego Popular 484",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=484"
+  },
+  {
+    "id": 485,
+    "titulo": "Juego Popular 485",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=485"
+  },
+  {
+    "id": 486,
+    "titulo": "Juego Popular 486",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=486"
+  },
+  {
+    "id": 487,
+    "titulo": "Juego Popular 487",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=487"
+  },
+  {
+    "id": 488,
+    "titulo": "Juego Popular 488",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=488"
+  },
+  {
+    "id": 489,
+    "titulo": "Juego Popular 489",
+    "plataforma": "PS5",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=489"
+  },
+  {
+    "id": 490,
+    "titulo": "Juego Popular 490",
+    "plataforma": "Xbox Series X",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=490"
+  },
+  {
+    "id": 491,
+    "titulo": "Juego Popular 491",
+    "plataforma": "Nintendo Switch",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=491"
+  },
+  {
+    "id": 492,
+    "titulo": "Juego Popular 492",
+    "plataforma": "PC",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=492"
+  },
+  {
+    "id": 493,
+    "titulo": "Juego Popular 493",
+    "plataforma": "PS5",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=493"
+  },
+  {
+    "id": 494,
+    "titulo": "Juego Popular 494",
+    "plataforma": "Xbox Series X",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=494"
+  },
+  {
+    "id": 495,
+    "titulo": "Juego Popular 495",
+    "plataforma": "Nintendo Switch",
+    "genero": "RPG",
+    "portada": "https://picsum.photos/300?random=495"
+  },
+  {
+    "id": 496,
+    "titulo": "Juego Popular 496",
+    "plataforma": "PC",
+    "genero": "Estrategia",
+    "portada": "https://picsum.photos/300?random=496"
+  },
+  {
+    "id": 497,
+    "titulo": "Juego Popular 497",
+    "plataforma": "PS5",
+    "genero": "Deportes",
+    "portada": "https://picsum.photos/300?random=497"
+  },
+  {
+    "id": 498,
+    "titulo": "Juego Popular 498",
+    "plataforma": "Xbox Series X",
+    "genero": "Acción",
+    "portada": "https://picsum.photos/300?random=498"
+  },
+  {
+    "id": 499,
+    "titulo": "Juego Popular 499",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "portada": "https://picsum.photos/300?random=499"
+  },
+  {
+    "id": 500,
+    "titulo": "Juego Popular 500",
+    "plataforma": "PC",
+    "genero": "Shooter",
+    "portada": "https://picsum.photos/300?random=500"
+  }
+]
